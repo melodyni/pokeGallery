@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pokeGallery/static/css/main.aadeb9ae.chunk.css",
+    "main.js": "/pokeGallery/static/js/main.ae56f4c6.chunk.js",
+    "main.js.map": "/pokeGallery/static/js/main.ae56f4c6.chunk.js.map",
+    "runtime-main.js": "/pokeGallery/static/js/runtime-main.4bb62273.js",
+    "runtime-main.js.map": "/pokeGallery/static/js/runtime-main.4bb62273.js.map",
+    "static/js/2.dc2253df.chunk.js": "/pokeGallery/static/js/2.dc2253df.chunk.js",
+    "static/js/2.dc2253df.chunk.js.map": "/pokeGallery/static/js/2.dc2253df.chunk.js.map",
+    "index.html": "/pokeGallery/index.html",
+    "precache-manifest.03ca0ba97134caacf514502691a72af6.js": "/pokeGallery/precache-manifest.03ca0ba97134caacf514502691a72af6.js",
+    "service-worker.js": "/pokeGallery/service-worker.js",
+    "static/css/main.aadeb9ae.chunk.css.map": "/pokeGallery/static/css/main.aadeb9ae.chunk.css.map",
+    "static/js/2.dc2253df.chunk.js.LICENSE.txt": "/pokeGallery/static/js/2.dc2253df.chunk.js.LICENSE.txt",
+    "static/media/pokelogo.png": "/pokeGallery/static/media/pokelogo.ddd5084d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4bb62273.js",
+    "static/js/2.dc2253df.chunk.js",
+    "static/css/main.aadeb9ae.chunk.css",
+    "static/js/main.ae56f4c6.chunk.js"
+  ]
+}
