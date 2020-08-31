@@ -1,12 +1,16 @@
 import React from 'react';
-import './App.css';
-import Pokemon from './pokemon.js';
-import './pokemon.css';
+import './Components/pokemon.css';
+import PokeGallery from './Components/PokeGallery';
+import * as pokemons from './poke.json';
+import logo from './assets/pokelogo.png';
 
 const App = (props) => {
-  console.log(props.list, typeof props.list[1]);
-  const pokemons = props.list.map((id) => <Pokemon key={id} id={id} />);
-  return <div className='flex'>{pokemons}</div>;
+  return (
+    <div>
+      <img src={logo} alt={logo} className='logo' />
+      <PokeGallery pokemons={pokemons.default.slice(0, 15)} />
+    </div>
+  );
 };
 
 export default App;
